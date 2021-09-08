@@ -1,0 +1,7 @@
+package strategy;
+
+public class BinarySearch implements SearchBehavior {
+    public void search();
+
+    public boolean contains(ArrayList<String> data, String item)
+}

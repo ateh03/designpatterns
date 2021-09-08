@@ -1,7 +1,0 @@
-package strategy;
-
-public class LinearSearch implements SearchBehavior {
-    public void search();
-
-    public boolean contains(ArrayList<String> data, String item)
-}
