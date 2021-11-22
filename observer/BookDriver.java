@@ -1,4 +1,4 @@
-package observer;
+// package observer;
 
 /**
  * Runs our Best Seller Book Program
@@ -31,6 +31,7 @@ public class BookDriver {
     }
 
     public static void main(String[] args){
+        System.out.println("hey");
         BookDriver driver = new BookDriver();
         driver.run();
     }
